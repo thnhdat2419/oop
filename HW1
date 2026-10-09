@@ -1,0 +1,15 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        string hoten = "Đặng Thành Đạt";
+        string masv = "10125074";
+        string lop = "12425TN";
+
+        Console.WriteLine("Ho ten: " + hoten);
+        Console.WriteLine("Ma sinh vien: " + masv);
+        Console.WriteLine("Lop: " + lop);
+    }
+}
